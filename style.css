@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
-body {
+html {
     color: rgba(255, 255, 255, 0.6);
     background-image: url(starTrek.jpg);
     background-position: center;
@@ -16,6 +16,7 @@ h1 {
     font-size: 50px;
     letter-spacing: 10px;
     text-decoration: underline;
+    text-transform: uppercase;
 }
 
 #series-movies {
